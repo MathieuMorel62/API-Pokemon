@@ -2,7 +2,7 @@
 
 ![pokemon](https://github.com/MathieuMorel62/API-Pokemon/assets/113856302/4e7c9b61-4b63-4dc6-bb9d-42242ac0b6c3)
 
-Bienvenue dans le projet Pokémon Manager ! Ce projet a été réalisé en live coding pour expliquer les bases de la création et de l'utilisation des API avec Flask. Vous trouverez ici une application web simple permettant de gérer une base de données de Pokémon, incluant des fonctionnalités d'ajout, de modification, de suppression et d'affichage des Pokémon.
+Ce projet a été développé dans le cadre d'une session de live coding dédiée à l'explication et à la démonstration des API. L'objectif principal était de créer une application web simple utilisant Flask et MySQL pour gérer une base de données de Pokémon. L'API permet d'effectuer diverses opérations CRUD (Create, Read, Update, Delete) sur les enregistrements de Pokémon.
 
 ## Ressources:
 
