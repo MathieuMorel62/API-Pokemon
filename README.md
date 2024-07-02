@@ -2,7 +2,7 @@
 
 ![pokemon](https://github.com/MathieuMorel62/API-Pokemon/assets/113856302/4e7c9b61-4b63-4dc6-bb9d-42242ac0b6c3)
 
-Pokémon Manager est une application web développée avec Flask, conçue pour gérer une base de données de Pokémon. Elle permet aux utilisateurs d'ajouter, de mettre à jour, de supprimer et de visualiser les Pokémon dans une interface utilisateur simple.
+Bienvenue dans le projet Pokémon Manager ! Ce projet a été réalisé en live coding pour expliquer les bases de la création et de l'utilisation des API avec Flask. Vous trouverez ici une application web simple permettant de gérer une base de données de Pokémon, incluant des fonctionnalités d'ajout, de modification, de suppression et d'affichage des Pokémon.
 
 ## Ressources:
 
