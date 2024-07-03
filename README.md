@@ -18,6 +18,7 @@ Ce projet a été développé dans le cadre d'une session de live coding dédié
 - `Backend` : Flask, Python
 - `Frontend` : HTML, CSS, JavaScript
 - `Base de données` : MySQL
+- `Extension VScode`: Thunder Client, mysql-client2
 
 ## Fonctionnalités
 
